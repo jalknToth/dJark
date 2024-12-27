@@ -7,8 +7,8 @@ git clone https://github.com/jalknToth/auDitr.git
 
 2. **Run the setup script:**
 ```bash
-chmod +x app.sh
-./app.sh
+chmod +x run.sh
+./run.sh
 ```
 The script will create:
 - 🔧 Admin User: just input username, email and password
