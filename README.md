@@ -34,6 +34,7 @@ Then open http://127.0.0.1:8000/admin
   <tr>
     <td><img src="screenshots/login.png" alt="login" width="200px"></td>
     <td><img src="screenshots/admin.png" alt="admin" width="200px"></td>
+    <td><img src="screenshots/dashboard.png" alt="admin" width="200px"></td>
   </tr>
 </table>
 
